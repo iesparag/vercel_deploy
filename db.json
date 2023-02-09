@@ -61,6 +61,15 @@
       "email": "cnorssister9@mayoclinic.com"
     }
   ],
-  "data":[]
+  "data":[
+  {
+    "name":"parag",
+    "price":1000,
+    "description":"this is a test",
+    "delivery":"this is a test",
+    "image":"https://i.imgur.com/w34yZ5h.jpg",
+    "id":1000
+}
+  ]
     
 }
